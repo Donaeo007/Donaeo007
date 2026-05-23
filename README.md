@@ -1,6 +1,7 @@
 <!--[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://donaeo007.io)-->
 
 ![a building](https://github.com/Donaeo007/Donaeo007/raw/main/Aircraft1.jpeg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://donaeo007.io)
 
 <h1 align="center">Hi 👋, I'm Habeeb Mustapha</h1>
 <h3 align="center">I am an AI and Embedded System Developer.</h3>
