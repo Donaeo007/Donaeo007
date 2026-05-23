@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Habeeb Mustapha</h1>
 <h3 align="center">I am an AI and Embedded System Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJkZDEwa3c2ZWl3cmN4dmwyb29rdGxmeWR4NTVsb2xmeThsZ3dhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJkZDEwa3c2ZWl3cmN4dmwyb29rdGxmeWR4NTVsb2xmeThsZ3dhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 - 📫 How to reach me **ayomidemustapha007@gmail.com**
 
