@@ -3,7 +3,7 @@
 ![Aircraft Image](https://github.com/Donaeo007/Donaeo007/raw/main/Aircraft1.jpeg)
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,apple,anaconda)](https://donaeo007.io)-->
 
-
+![Donaeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaeo007&show_icons=true&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Habeeb Mustapha</h1>
 <h3 align="center">I am an AI and Embedded System Developer.</h3>
