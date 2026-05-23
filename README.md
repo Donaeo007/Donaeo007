@@ -1,7 +1,13 @@
 <!--[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://donaeo007.io)-->
 
 ![Aircraft Image](https://github.com/Donaeo007/Donaeo007/raw/main/Aircraft1.jpeg)
-[![My Skills](https://skillicons.dev/icons?i=js,html,apple,anaconda)](https://donaeo007.io)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,apple,anaconda)](https://donaeo007.io)-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,apple,c,vim" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Habeeb Mustapha</h1>
 <h3 align="center">I am an AI and Embedded System Developer.</h3>
